@@ -59,9 +59,7 @@ D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.Mv
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.MvcApplicationPartsAssemblyInfo.cache
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.RazorComponent.input.cache
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
-D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -73,9 +71,7 @@ D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.Ta
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.TagHelpers.output.cache
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\BlazorCV.RazorCoreGenerate.cache
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
-D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorCV\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
