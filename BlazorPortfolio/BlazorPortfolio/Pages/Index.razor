@@ -1,7 +1,46 @@
 ﻿@page "/"
 
-<h1>Hello, world!</h1>
+<div class="col-lg-12 col-md-12 col-sm-12 text-center">
+    <h1>Portfolio</h1>
+</div>
+<div class="jumbotron">
+    <div class="row">               
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <p>Im full stack C#, NodeJS developer. I also have experience with python and linux systems.</p>
+            <p>Im passionate about learning new technologies and skills.</p>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <hr />
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <h4>About</h4>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <hr />
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <p>This application is build with Blazor as my portfolio it is deployed in Azure</p>
+        </div>
+    </div>
+</div>
 
-Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+<style>
+    h1 {
+        display: inline;
+        position: relative;
+        font: 200px Helvetica, Sans-Serif;
+        letter-spacing: -5px;
+        color: rgba(0,0,255,0.5);
+    }
+
+        h1:after {
+            content: "Portfolio";
+            position: absolute;
+            left: 10px;
+            top: 5px;
+            color: rgba(255,0,0,0.5);
+        }
+</style>
+@code{
+}
