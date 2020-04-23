@@ -47,3 +47,5 @@ D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\
 D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\netcoreapp3.1\BlazorPortfolio.csprojAssemblyReference.cache
 D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\DownloadCV.razor.g.cs
 D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\netcoreapp3.1\Razor\Pages\DownloadCV.razor.g.cs
+D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Projects.razor.g.cs
+D:\programming\c#\BlazorCV\BlazorCV\BlazorPortfolio\BlazorPortfolio\obj\Release\netcoreapp3.1\Razor\Pages\Projects.razor.g.cs
